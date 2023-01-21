@@ -8,10 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu/Menu.unity
     guid: 530dc619990da73499fde3451cea8880
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/arena/arenaScene.unity
     guid: da374c585d8ca834b9f79b9a83cbd602
+  - enabled: 1
+    path: Assets/Scenes/defeat/DeathScene.unity
+    guid: 8fb895a1306b67a47a10ce97f8a0f652
+  - enabled: 1
+    path: Assets/Scenes/victory/Victory.unity
+    guid: 6625950d35701124aa73549634c1d2a2
   m_configObjects: {}
