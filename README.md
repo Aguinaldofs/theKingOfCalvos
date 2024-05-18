@@ -1,2 +1,2 @@
-# theKingOfCalvos
+# TheKingOfCalvos
 A simple game.
